@@ -1,0 +1,66 @@
+html {
+  padding: 0;
+  margin: 0;
+  cursor: url(http://cur.cursors-4u.net/holidays/hol-1/hol65.ani),
+    url(http://cur.cursors-4u.net/holidays/hol-1/hol65.png), auto !important;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: black;
+  color: orange;
+  background-image: url("https://i.gifer.com/YqWu.gif");
+}
+
+p {
+  /* text-align: center; */
+  margin: 0 auto;
+  width: 400px;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 30px;
+}
+
+a {
+  font-style: italic;
+  color: orange;
+  cursor: url(http://cur.cursors-4u.net/holidays/hol-1/hol65.ani),
+    url(http://cur.cursors-4u.net/holidays/hol-1/hol65.png), auto !important;
+  margin-right: 10px;
+}
+
+.bio {
+  width: 400px;
+  padding: 40px;
+  border: 1px solid orange;
+  margin: 0 auto;
+}
+
+.bio img {
+  /* border: 1px solid orange; */
+}
+
+#pumpkin {
+  margin-top: 40px;
+}
+
+button {
+  margin-top: 20px;
+  border-radius: 0;
+  background: linear-gradient(orange, #fff);
+  color: #000;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  text-decoration: underline;
+  font-style: italic;
+  padding: 5px 10px;
+}
