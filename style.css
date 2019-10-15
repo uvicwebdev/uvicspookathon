@@ -49,6 +49,12 @@ a {
   /* border: 1px solid orange; */
 }
 
+.bio button a {
+  color: #000;
+  font-weight: bold;
+  margin: 5px;
+}
+
 #pumpkin {
   margin-top: 40px;
 }
